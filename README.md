@@ -10,7 +10,7 @@ This repository contains a simple Job Portal application built using React.js.
 - 🎨 User-friendly interface  
 
 
-![Home Page]((screenshot-home.png)
+![Home Page](screenshot-home.png)
 
 ## 📥 Installation
 
